@@ -1,2 +1,4 @@
 # New Repository
-hello world, i am Seyram Kisseh
+hello world, i am the man Seyram Kisseh
+
+There he is people
